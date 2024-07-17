@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: website
+type: duckdb
+options:
+  filename: ":memory:"
