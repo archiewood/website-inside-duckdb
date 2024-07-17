@@ -14,6 +14,9 @@ SELECT '
   <p>The page is rendered using Evidence</p>
   <a class=markdown href="https://evidence.dev">Read about Evidence &rarr;</a>
   <br><br>
+  <p>The source code can be found on Github</p>
+  <a class=markdown href="https://github.com/archiewood/website-inside-duckdb">View on Github &rarr;</a>
+  <br><br>
 </body>
 <style>
   body {
